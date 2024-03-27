@@ -1,0 +1,34 @@
+{
+    "name": "products-index",
+    "fields": [
+      {
+        "name": "product_id",
+        "type": "Edm.String",
+        "key": true
+      },
+      {
+        "name": "product_name",
+        "type": "Edm.String"
+      },
+      {
+        "name": "category_id",
+        "type": "Edm.Int32"
+      },
+      {
+        "name": "price",
+        "type": "Edm.String"
+      },
+      {
+        "name": "description",
+        "type": "Edm.String"
+      },
+      {
+        "name": "image_url",
+        "type": "Edm.String"
+      },
+      {
+        "name": "date_added",
+        "type": "Edm.DateTimeOffset"
+      }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "categories-datasource",
+    "type": "azuresql",
+    "credentials": {
+      "connectionString": "__CATEGORIES_DATASOURCE__"
+    },
+    "container": {
+      "name": "[categories]"
+    }
+  }

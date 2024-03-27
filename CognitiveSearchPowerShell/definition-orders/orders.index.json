@@ -1,0 +1,42 @@
+{
+    "name": "orders-index",
+    "fields": [
+      {
+        "name": "order_date",
+        "type": "Edm.String"
+      },
+      {
+        "name": "order_number",
+        "type": "Edm.String",
+        "key": true
+      },
+      {
+        "name": "customer_name",
+        "type": "Edm.String"
+      },
+      {
+        "name": "product_name",
+        "type": "Edm.String"
+      },
+      {
+        "name": "price",
+        "type": "Edm.String"
+      },
+      {
+        "name": "description",
+        "type": "Edm.String"
+      },
+      {
+        "name": "image_url",
+        "type": "Edm.String"
+      },
+      {
+        "name": "date_added",
+        "type": "Edm.DateTimeOffset"
+      },
+      {
+        "name": "category_name",
+        "type": "Edm.String"
+      }
+    ]
+}

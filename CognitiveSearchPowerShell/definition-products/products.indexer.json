@@ -1,0 +1,5 @@
+{
+    "name": "products-indexer",
+    "dataSourceName": "products-datasource",
+    "targetIndexName": "products-index"
+}

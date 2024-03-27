@@ -1,0 +1,5 @@
+{
+    "name": "categories-indexer",
+    "dataSourceName": "categories-datasource",
+    "targetIndexName": "categories-index"
+}

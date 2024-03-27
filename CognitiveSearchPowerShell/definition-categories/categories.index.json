@@ -1,0 +1,14 @@
+{
+    "name": "categories-index",
+    "fields": [
+      {
+        "name": "category_id",
+        "type": "Edm.String",
+        "key": true
+      },
+      {
+        "name": "category_name",
+        "type": "Edm.String"
+      }
+    ]
+}

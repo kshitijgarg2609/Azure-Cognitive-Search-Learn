@@ -1,0 +1,10 @@
+{
+    "name": "products-datasource",
+    "type": "azuresql",
+    "credentials": {
+      "connectionString": "__PRODUCTS_DATASOURCE__"
+    },
+    "container": {
+      "name": "[products]"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "orders-datasource",
+    "type": "azuresql",
+    "credentials": {
+      "connectionString": "__ORDERS_DATASOURCE__"
+    },
+    "container": {
+      "name": "[vw_OrderDetails]"
+    }
+}
